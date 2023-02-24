@@ -8,4 +8,4 @@ Los proyectos de los que más me siento orgullosa son:
 - Proyecto de NLP para la detección de mensajes de odio 🚫. Se analizaron los datos, modelamos y creamos una interfaz sencilla con Streamlit.
 - Proyecto API REST con FastAPI 🚀. Se documentó la API con redoc y se conectó la api a una base de datos.
 
-Puedes contactarme a través de [mi perfil de LinkedIn](https://www.linkedin.com/in/mendozaalexandra/) 😃.
+Puedes contactarme a través de [mi perfil de LinkedIn](https://www.linkedin.com/in/alexandra-mendoza-malasquez/) 😃.
